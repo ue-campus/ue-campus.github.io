@@ -90,12 +90,6 @@ a:active {
   flex: 1;
 }
 
-.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 10px;
-}
 
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
@@ -124,6 +118,8 @@ a:active {
 }
  
 .stripf {
+    position: sticky; 
+    bottom: 0;
     overflow: hidden;
     background-color: #7dbae3;
     padding: 20px 10px;

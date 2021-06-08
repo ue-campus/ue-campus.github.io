@@ -119,11 +119,18 @@ a:active {
 .stripf {
     overflow: hidden;
     background-color: #7dbae3;
-    padding: 20px 10px;
-    text-align: right;
-    font-weight:bold;
-    color: white;    
+    padding: 20px 10px;  
  }
+
+p.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  font-weight:bold;
+  color: white;    
+  border: 3px solid white;
+}
 
 .center {
    text-align: center

@@ -94,6 +94,7 @@ a:active {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  padding: 10px;
 }
 
 /* PRIMARY LAYOUT ELEMENTS   

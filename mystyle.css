@@ -90,6 +90,11 @@ a:active {
   flex: 1;
 }
 
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
 
@@ -124,16 +129,6 @@ a:active {
     font-weight:bold;
     color: white; 
  }
-
-p.fixed {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 200px;
-  font-weight:bold;
-  color: white;    
-  border: 3px solid white;
-}
 
 .center {
    text-align: center

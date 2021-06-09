@@ -97,7 +97,7 @@ a:active {
 
 .striph {
     display: flex;
-    padding: 20px;
+    padding: 30px;
     background-image: url("../media/Water.PNG");
     background-position: center; 
     background-repeat: no-repeat;

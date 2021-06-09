@@ -96,7 +96,7 @@ a:active {
 ----------------------------------------------------------*/
 
 .striph {
-    overflow: hidden;
+    displax: flex;
     background-color: #0b8be0;
  }
 

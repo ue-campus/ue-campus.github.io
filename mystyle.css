@@ -113,6 +113,10 @@ a:active {
   background-color: #DFAC20;
 }
 
+.topnav a:focus {
+  background-color: #DFAC20;
+}
+
 .topnav a.active {
   background-color: #B24968;
   color: white;

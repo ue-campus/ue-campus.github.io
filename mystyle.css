@@ -96,7 +96,15 @@ a:active {
 ----------------------------------------------------------*/
 
 .striph {
-    overflow: hidden;
+    display: flex;
+    background-image: url("../media/WATER.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+ }
+
+.navbar {
+    display: flex;
     background-color: #0b8be0;
  }
 
